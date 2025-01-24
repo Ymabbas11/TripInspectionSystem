@@ -11,7 +11,7 @@ The **Trip Inspection and Geofence Alert System** is a real-time monitoring solu
 ## File Structure
 
 ```
-DawsonProject/
+TripInspectionSystem/
 ├── config/               # Application configurations (e.g., app_config.py)
 ├── routes/               # API route definitions
 │   ├── geofence_routes.py # Handles geofence alert endpoints
